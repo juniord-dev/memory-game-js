@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="#">
+  <a href="https://juniord-dev.github.io/memory-game-js/">
     <img src="./src/images/memory-game-jrdantas.gif" width="550">
   </a>
 </p>
@@ -29,7 +29,7 @@ No desenvolvimento desse jogo pude aplicar os conhecimentos em manipulação de 
 
 ## Como jogar:
 
-Para jogar basta clicar <a href="#">AQUI</a>!
+Para jogar basta clicar <a href="https://juniord-dev.github.io/memory-game-js/">AQUI</a>!
 
 ## A ser implementado:
 
